@@ -11,6 +11,7 @@
 [![CLI Installer](https://img.shields.io/badge/CLI_Tool-get--openfonts-2496ED?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/mohammadgolamrabbii/get-openfonts)
 [![Bitbucket Mirrors](https://img.shields.io/badge/Bitbucket-Mirrors-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/golamrabbii)
 [![Jira Roadmap](https://img.shields.io/badge/Jira-Project_Roadmap-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://golamrabbii.atlassian.net/jira/software/projects/KAN/boards/1)
+[![Internet Archive](https://img.shields.io/badge/Archive.org-Permanent_Library-000000?style=for-the-badge&logo=internet-archive&logoColor=white)](https://archive.org/details/open-typography-foundation)
 
 <p align="center">
   <em>"Preserving linguistic identity, cultural scripts, and open typographic design for future generations."</em>

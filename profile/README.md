@@ -59,7 +59,6 @@ Stay connected with Foundation updates, architectural releases, and typography r
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-golamrabbii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/golamrabbii)
 [![Linktree](https://img.shields.io/badge/Linktree-golamrabbii-43E660?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/golamrabbii)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Pro_Services-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/golamrabbii)
-[![Email](https://img.shields.io/badge/Direct_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadgolamrabbi3@gmail.com)
 
 #### 💻 Engineering & Cloud Repositories
 [![GitHub](https://img.shields.io/badge/GitHub-mohammadgolamrabbii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadgolamrabbii)

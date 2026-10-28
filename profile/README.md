@@ -28,14 +28,14 @@ The **Open Typography Foundation** is an international open-source institution d
 
 ## 🗃️ Master Typography Collections (80,000+ Fonts)
 
-| Script / Region | Total Typefaces | Coverage & Categories | Repository Hub |
-| :--- | :---: | :--- | :--- |
-| 🇬🇧 **English & Western Latin** | **50,000+** | Modern Sans, Editorial Serif, YouTube High-CTR, Variable Fonts, Developer Monospace, Signature, Sci-Fi, Gothic | [English-Fonts-Mega-Archive](https://github.com/mohammadgolamrabbii/English-Fonts-Mega-Archive) |
-| 🇧🇩 **Bengali (বাংলা)** | **2,581+** | Unicode, Bijoy ANSI, Historical DTP & Linux Server Desktop Publishing | [Bangla-Fonts-Mega-Collection](https://github.com/mohammadgolamrabbii/Bangla-Fonts-Mega-Collection) |
-| 🕌 **Arabic & Islamic (العربية)** | **13,858+** | Classical Quranic Mushaf, Thuluth, Naskh, Kufic, Diwani, Ruq'ah, Arabeyes | [Arabic-Fonts-Mega-Archive](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive) |
-| 🇮🇳 **Hindi & Devanagari (हिन्दी)** | **6,011+** | Sanskrit, Vedic, Kruti Dev, DevLys, ShreeLipi, Chanakya, Mangal, Poppins | [Hindi-Fonts-Mega-Archive](https://github.com/mohammadgolamrabbii/Hindi-Fonts-Mega-Archive) |
-| 🇩🇪 **German (Deutsche Schriften)** | **5,002+** | Historical Gutenberg Fraktur, Schwabacher, Kurrent, DIN 1451, Bauhaus, Modern Grotesque | [German-Fonts-Mega-Archive](https://github.com/mohammadgolamrabbii/German-Fonts-Mega-Archive) |
-| 🎨 **Icons & Vector Symbols** | **225+** | FontAwesome 6, Material Symbols, Web Glyphs | [Icons-and-Symbols-Fonts](https://github.com/mohammadgolamrabbii/Icons-and-Symbols-Fonts) |
+| Script / Region | Total Typefaces | Coverage & Categories | Repository Hub | Permanent Archive.org Mirror |
+| :--- | :---: | :--- | :--- | :--- |
+| 🇬🇧 **English & Western Latin** | **30,886+** | Modern Sans, Editorial Serif, YouTube High-CTR, Variable Fonts, Monospace | [English-Fonts-Mega-Archive](https://github.com/mohammadgolamrabbii/English-Fonts-Mega-Archive) | [🏛️ Download 6 Volumes](https://archive.org/details/open-typography-foundation-english-fonts) |
+| 🇧🇩 **Bengali (বাংলা)** | **2,581+** | Unicode, Bijoy ANSI, Historical DTP & Linux Server Desktop Publishing | [Bangla-Fonts-Mega-Collection](https://github.com/mohammadgolamrabbii/Bangla-Fonts-Mega-Collection) | [🏛️ Download ZIP](https://archive.org/details/open-typography-foundation-bangla-fonts) |
+| 🕌 **Arabic & Islamic (العربية)** | **13,858+** | Classical Quranic Mushaf, Thuluth, Naskh, Kufic, Diwani, Ruq'ah, Arabeyes | [Arabic-Fonts-Mega-Archive](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive) | [🏛️ Download 4 Volumes](https://archive.org/details/open-typography-foundation-arabic-fonts) |
+| 🇮🇳 **Hindi & Devanagari (हिन्दी)** | **6,011+** | Sanskrit, Vedic, Kruti Dev, DevLys, ShreeLipi, Chanakya, Mangal, Poppins | [Hindi-Fonts-Mega-Archive](https://github.com/mohammadgolamrabbii/Hindi-Fonts-Mega-Archive) | [🏛️ Download ZIP](https://archive.org/details/open-typography-foundation-hindi-devanagari) |
+| 🇩🇪 **German (Deutsche Schriften)** | **5,002+** | Historical Gutenberg Fraktur, Schwabacher, Kurrent, DIN 1451, Bauhaus | [German-Fonts-Mega-Archive](https://github.com/mohammadgolamrabbii/German-Fonts-Mega-Archive) | [🏛️ Download ZIP](https://archive.org/details/open-typography-foundation-german-fraktur) |
+| 🎨 **Icons & Vector Symbols** | **225+** | FontAwesome 6, Material Symbols, Web Glyphs | [Icons-and-Symbols-Fonts](https://github.com/mohammadgolamrabbii/Icons-and-Symbols-Fonts) | [🏛️ Download ZIP](https://archive.org/details/open-typography-foundation-icons-symbols) |
 
 ---
 

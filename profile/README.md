@@ -30,6 +30,7 @@ The **Open Typography Foundation** is an international open-source institution d
 
 | Script / Region | Total Typefaces | Coverage & Categories | Repository Hub | Permanent Archive.org Mirror |
 | :--- | :---: | :--- | :--- | :--- |
+| 🇯🇵 **Japanese (日本語)** | **85+** | Classical Mincho, Kaku/Maru Gothic, High-CTR Anime/Manga, Shodo Calligraphy, Pixel | [Japanese-Fonts-Mega-Archive](https://github.com/Open-Typography-Foundation/Japanese-Fonts-Mega-Archive) | [🏛️ Download ZIP](https://archive.org/details/open-typography-foundation-japanese-fonts) |
 | 🇬🇧 **English & Western Latin** | **30,886+** | Modern Sans, Editorial Serif, YouTube High-CTR, Variable Fonts, Monospace | [English-Fonts-Mega-Archive](https://github.com/mohammadgolamrabbii/English-Fonts-Mega-Archive) | [🏛️ Download 6 Volumes](https://archive.org/details/open-typography-foundation-english-fonts) |
 | 🇧🇩 **Bengali (বাংলা)** | **2,581+** | Unicode, Bijoy ANSI, Historical DTP & Linux Server Desktop Publishing | [Bangla-Fonts-Mega-Collection](https://github.com/mohammadgolamrabbii/Bangla-Fonts-Mega-Collection) | [🏛️ Download ZIP](https://archive.org/details/open-typography-foundation-bangla-fonts) |
 | 🕌 **Arabic & Islamic (العربية)** | **13,858+** | Classical Quranic Mushaf, Thuluth, Naskh, Kufic, Diwani, Ruq'ah, Arabeyes | [Arabic-Fonts-Mega-Archive](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive) | [🏛️ Download 4 Volumes](https://archive.org/details/open-typography-foundation-arabic-fonts) |

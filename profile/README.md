@@ -6,7 +6,7 @@
 ### Preserving World Typographical Heritage & Global Open Font Access
 **Founded & Curated by [Mohammad Golamrabbii](https://linktr.ee/golamrabbii)**
 
-[![Live Previewer](https://img.shields.io/badge/Web_Previewer-75,000+_Fonts-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammadgolamrabbii.github.io/typography/)
+[![Live Previewer](https://img.shields.io/badge/Web_Previewer-77,800+_Fonts-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammadgolamrabbii.github.io/typography/)
 [![Awesome List](https://img.shields.io/badge/Awesome-Open_Typography-FC60A8?style=for-the-badge&logo=awesome&logoColor=white)](https://github.com/mohammadgolamrabbii/Awesome-Open-Typography)
 [![CLI Installer](https://img.shields.io/badge/CLI_Tool-get--openfonts-2496ED?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/mohammadgolamrabbii/get-openfonts)
 [![Bitbucket Mirrors](https://img.shields.io/badge/Bitbucket-Mirrors-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/golamrabbii)
@@ -41,17 +41,18 @@ The **Open Typography Foundation** is an international open-source institution d
 
 ---
 
-## 📚 Curated Vault Matrices (75,000+ Production Fonts)
+## 📚 Curated Vault Matrices (77,800+ Production Fonts)
 
 | Script Family | Repository / Collection | Total Fonts | Preserved Formats | Archive.org Mirror |
 | :--- | :--- | :---: | :---: | :---: |
 | 🇷🇺 **Cyrillic & Slavic** | [Cyrillic-Fonts-Mega-Archive](https://github.com/Open-Typography-Foundation/Cyrillic-Fonts-Mega-Archive) | **10,136+** | TTF, OTF, WOFF2 | [Permanent Mirror](https://archive.org/details/open-typography-foundation-cyrillic-slavic) |
+| 🇰🇷 **Korean (한국어 / Hangul)** | [11_Korean_Hangul](https://github.com/Open-Typography-Foundation/11_Korean_Hangul) | **1,863+** | TTF, OTF, WOFF2 | [Permanent Mirror](https://github.com/Open-Typography-Foundation/11_Korean_Hangul) |
 | 🇯🇵 **Japanese (日本語)** | [Japanese-Fonts-Mega-Archive](https://github.com/Open-Typography-Foundation/Japanese-Fonts-Mega-Archive) | **1,509+** | TTF, OTF, TTC | [Permanent Mirror](https://archive.org/details/open-typography-foundation-japanese-fonts) |
 | 🇧🇩 **Bangla (বাংলা)** | [Bangla-Fonts-Mega-Collection](https://github.com/Open-Typography-Foundation/Bangla-Fonts-Mega-Collection) | **5,020+** | TTF, OTF, WOFF | [Permanent Mirror](https://archive.org/details/open-typography-foundation-bangla-fonts) |
+| 🇮🇳 **Hindi Devanagari** | [Hindi-Devanagari-Fonts-Archive](https://github.com/Open-Typography-Foundation/Hindi-Devanagari-Fonts-Archive) | **6,519+** | TTF, OTF | [Permanent Mirror](https://archive.org/details/open-typography-foundation-hindi-fonts) |
+| 🇩🇪 **German Fraktur** | [German-Fraktur-Fonts-Archive](https://github.com/Open-Typography-Foundation/8_German_Deutsche_Schriften) | **5,504+** | TTF, OTF | [Permanent Mirror](https://archive.org/details/open-typography-foundation-german-fonts) |
 | 🇬🇧 **English & Latin** | [English-Latin-Fonts-Archive](https://github.com/Open-Typography-Foundation/English-Latin-Fonts-Archive) | **30,930+** | TTF, OTF, WOFF2 | [11 Volumes](https://archive.org/details/open-typography-foundation-english-fonts-v1) |
 | 🕌 **Arabic & Islamic** | [Arabic-Islamic-Fonts-Archive](https://github.com/Open-Typography-Foundation/Arabic-Islamic-Fonts-Archive) | **13,856+** | TTF, OTF, WOFF | [4 Volumes](https://archive.org/details/open-typography-foundation-arabic-fonts-v1) |
-| 🇮🇳 **Hindi Devanagari** | [Hindi-Devanagari-Fonts-Archive](https://github.com/Open-Typography-Foundation/Hindi-Devanagari-Fonts-Archive) | **5,999+** | TTF, OTF | [Permanent Mirror](https://archive.org/details/open-typography-foundation-hindi-fonts) |
-| 🇩🇪 **German Fraktur** | [German-Fraktur-Fonts-Archive](https://github.com/Open-Typography-Foundation/German-Fraktur-Fonts-Archive) | **4,984+** | TTF, OTF | [Permanent Mirror](https://archive.org/details/open-typography-foundation-german-fonts) |
 | 🎨 **Icons & Symbols** | [Icons-Symbols-Archive](https://github.com/Open-Typography-Foundation) | **225+** | TTF, OTF, WOFF2 | [Permanent Mirror](https://archive.org/details/open-typography-foundation) |
 
 ---
@@ -67,7 +68,6 @@ All archives are distributed across a decentralized, high-availability mirror ne
 
 ---
 
-### 👤 Foundation Leadership
-- **Executive Director & Lead Curator:** [Mohammad Golamrabbii](https://linktr.ee/golamrabbii)
-- **Interactive Font Studio:** [Live Web Previewer](https://mohammadgolamrabbii.github.io/typography/)
-- **Organization Website:** [github.com/Open-Typography-Foundation](https://github.com/Open-Typography-Foundation)
+### 👑 Foundation Leadership
+- **Mohammad Golamrabbii** — *Founder & Executive Director, Lead Typographic Archivist*
+- Contact & Inquiries: [linktr.ee/golamrabbii](https://linktr.ee/golamrabbii)

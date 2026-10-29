@@ -26,14 +26,27 @@ The **Open Typography Foundation** is an international open-source institution d
 
 ---
 
+> ### ⚡ Instant Terminal 1-Click Installers (Zero Rate-Limits)
+> **🐧 Linux / macOS Bash:**
+> ```bash
+> curl -fsSL https://mohammadgolamrabbii.github.io/typography/install.sh | bash -s -- all
+> ```
+> *(Installs system-wide to `~/.local/share/fonts/opentypography/` and updates `fc-cache`)*
+> 
+> **🪟 Windows PowerShell:**
+> ```powershell
+> irm https://mohammadgolamrabbii.github.io/typography/install.ps1 | iex
+> ```
+> *(Registers directly into Windows Registry with zero reboot required)*
+
 ## 🗃️ Master Typography Collections (80,000+ Fonts)
 
 | Script / Region | Total Typefaces | Coverage & Categories | Repository Hub | Permanent Archive.org Mirror |
 | :--- | :---: | :--- | :--- | :--- |
-| 🇷🇺 **Cyrillic & Slavic (Кириллица)** | **873+** | Soviet Constructivism, ParaType Modern Grotesque, Imperial Russian Literature Serif, Slavic Vyaz | [Cyrillic-Fonts-Mega-Archive](https://github.com/Open-Typography-Foundation/Cyrillic-Fonts-Mega-Archive) | [🐙 GitHub Repo](https://github.com/Open-Typography-Foundation/Cyrillic-Fonts-Mega-Archive) |
-| 🇯🇵 **Japanese (日本語)** | **143+** | Classical Mincho, Kaku/Maru Gothic, High-CTR Anime/Manga, Shodo Calligraphy, Pixel | [Japanese-Fonts-Mega-Archive](https://github.com/Open-Typography-Foundation/Japanese-Fonts-Mega-Archive) | [🏛️ Download ZIP](https://archive.org/details/open-typography-foundation-japanese-fonts) |
+| 🇷🇺 **Cyrillic & Slavic (Кириллица)** | **10,136+** | Soviet Constructivism, ParaType Modern Grotesque, Imperial Russian Literature Serif, Slavic Vyaz | [Cyrillic-Fonts-Mega-Archive](https://github.com/Open-Typography-Foundation/Cyrillic-Fonts-Mega-Archive) | [🐙 GitHub Repo](https://github.com/Open-Typography-Foundation/Cyrillic-Fonts-Mega-Archive) |
+| 🇯🇵 **Japanese (日本語)** | **1,162+** | Classical Mincho, Kaku/Maru Gothic, High-CTR Anime/Manga, Shodo Calligraphy, Pixel | [Japanese-Fonts-Mega-Archive](https://github.com/Open-Typography-Foundation/Japanese-Fonts-Mega-Archive) | [🏛️ Download ZIP](https://archive.org/details/open-typography-foundation-japanese-fonts) |
 | 🇬🇧 **English & Western Latin** | **30,886+** | Modern Sans, Editorial Serif, YouTube High-CTR, Variable Fonts, Monospace | [English-Fonts-Mega-Archive](https://github.com/mohammadgolamrabbii/English-Fonts-Mega-Archive) | [🏛️ Download 6 Volumes](https://archive.org/details/open-typography-foundation-english-fonts) |
-| 🇧🇩 **Bengali (বাংলা)** | **2,581+** | Unicode, Bijoy ANSI, Historical DTP & Linux Server Desktop Publishing | [Bangla-Fonts-Mega-Collection](https://github.com/mohammadgolamrabbii/Bangla-Fonts-Mega-Collection) | [🏛️ Download ZIP](https://archive.org/details/open-typography-foundation-bangla-fonts) |
+| 🇧🇩 **Bengali (বাংলা)** | **3,412+** | Unicode, Bijoy ANSI, Historical DTP & Linux Server Desktop Publishing | [Bangla-Fonts-Mega-Collection](https://github.com/mohammadgolamrabbii/Bangla-Fonts-Mega-Collection) | [🏛️ Download ZIP](https://archive.org/details/open-typography-foundation-bangla-fonts) |
 | 🕌 **Arabic & Islamic (العربية)** | **13,858+** | Classical Quranic Mushaf, Thuluth, Naskh, Kufic, Diwani, Ruq'ah, Arabeyes | [Arabic-Fonts-Mega-Archive](https://github.com/mohammadgolamrabbii/Arabic-Fonts-Mega-Archive) | [🏛️ Download 4 Volumes](https://archive.org/details/open-typography-foundation-arabic-fonts) |
 | 🇮🇳 **Hindi & Devanagari (हिन्दी)** | **6,011+** | Sanskrit, Vedic, Kruti Dev, DevLys, ShreeLipi, Chanakya, Mangal, Poppins | [Hindi-Fonts-Mega-Archive](https://github.com/mohammadgolamrabbii/Hindi-Fonts-Mega-Archive) | [🏛️ Download ZIP](https://archive.org/details/open-typography-foundation-hindi-devanagari) |
 | 🇩🇪 **German (Deutsche Schriften)** | **5,002+** | Historical Gutenberg Fraktur, Schwabacher, Kurrent, DIN 1451, Bauhaus | [German-Fonts-Mega-Archive](https://github.com/mohammadgolamrabbii/German-Fonts-Mega-Archive) | [🏛️ Download ZIP](https://archive.org/details/open-typography-foundation-german-fraktur) |

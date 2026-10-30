@@ -6,7 +6,7 @@
 ### Preserving World Typographical Heritage & Global Open Font Access
 **Founded & Curated by [Mohammad Golamrabbii](https://linktr.ee/golamrabbii)**
 
-[![Live Previewer](https://img.shields.io/badge/Web_Previewer-88,500+_Fonts-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammadgolamrabbii.github.io/typography/)
+[![Live Previewer](https://img.shields.io/badge/Web_Previewer-90,000+_Fonts-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammadgolamrabbii.github.io/typography/)
 [![Awesome List](https://img.shields.io/badge/Awesome-Open_Typography-FC60A8?style=for-the-badge&logo=awesome&logoColor=white)](https://github.com/mohammadgolamrabbii/Awesome-Open-Typography)
 [![CLI Installer](https://img.shields.io/badge/CLI_Tool-get--openfonts-2496ED?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/mohammadgolamrabbii/get-openfonts)
 [![Bitbucket Mirrors](https://img.shields.io/badge/Bitbucket-Mirrors-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/golamrabbii)
@@ -41,11 +41,14 @@ The **Open Typography Foundation** is an international open-source institution d
 
 ---
 
-## 📚 Curated Vault Matrices (88,500+ Production Fonts)
+## 📚 Curated Vault Matrices (90,000+ Production Fonts)
 
 | Script Family | Repository / Collection | Total Fonts | Preserved Formats | Archive.org Mirror |
 | :--- | :--- | :---: | :---: | :---: |
 | 🇷🇺 **Cyrillic & Slavic** | [Cyrillic-Fonts-Mega-Archive](https://github.com/Open-Typography-Foundation/Cyrillic-Fonts-Mega-Archive) | **10,136+** | TTF, OTF, WOFF2 | [Permanent Mirror](https://archive.org/details/open-typography-foundation-cyrillic-slavic) |
+| 🏛️ **Dravidian (Tamil/Telugu/Malayalam)** | [Dravidian-Fonts-Mega-Archive](https://github.com/Open-Typography-Foundation/Dravidian-Fonts-Mega-Archive) | **730+** | TTF, OTF, WOFF2 | [GitHub Mirror](https://github.com/Open-Typography-Foundation/Dravidian-Fonts-Mega-Archive) |
+| 🌍 **African Scripts (Ge'ez/Amharic)** | [African-Scripts-Mega-Archive](https://github.com/Open-Typography-Foundation/African-Scripts-Mega-Archive) | **285+** | TTF, OTF, WOFF2 | [GitHub Mirror](https://github.com/Open-Typography-Foundation/African-Scripts-Mega-Archive) |
+| 📜 **Persian & Urdu (Nastaliq/Farsi)** | [Persian-Urdu-Nastaliq-Fonts-Archive](https://github.com/Open-Typography-Foundation/Persian-Urdu-Nastaliq-Fonts-Archive) | **1,390+** | TTF, OTF, WOFF2 | [GitHub Mirror](https://github.com/Open-Typography-Foundation/Persian-Urdu-Nastaliq-Fonts-Archive) |
 | 💻 **Developer & Coding (Monospace)** | [Developer-Coding-Fonts-Archive](https://github.com/Open-Typography-Foundation/Developer-Coding-Fonts-Archive) | **1,170+** | TTF, OTF, WOFF2 | [GitHub Mirror](https://github.com/Open-Typography-Foundation/Developer-Coding-Fonts-Archive) |
 | 🌺 **Malay & Nusantara (Melayu/Jawi)** | [Malay-Nusantara-Fonts-Archive](https://github.com/Open-Typography-Foundation/Malay-Nusantara-Fonts-Archive) | **2,750+** | TTF, OTF, WOFF2 | [GitHub Mirror](https://github.com/Open-Typography-Foundation/Malay-Nusantara-Fonts-Archive) |
 | 🇹🇭 **Thai Siam (ภาษาไทย)** | [Thai-Fonts-Mega-Archive](https://github.com/Open-Typography-Foundation/Thai-Fonts-Mega-Archive) | **1,810+** | TTF, OTF, WOFF2 | [GitHub Mirror](https://github.com/Open-Typography-Foundation/Thai-Fonts-Mega-Archive) |

@@ -6,7 +6,7 @@
 ### Preserving World Typographical Heritage & Global Open Font Access
 **Founded & Curated by [Mohammad Golamrabbii](https://linktr.ee/golamrabbii)**
 
-[![Live Previewer](https://img.shields.io/badge/Web_Previewer-400,237%2B_Fonts-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammadgolamrabbii.github.io/typography/)
+[![Live Previewer](https://img.shields.io/badge/Web_Previewer-500,337%2B_Fonts-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammadgolamrabbii.github.io/typography/)
 [![Awesome List](https://img.shields.io/badge/Awesome-Open_Typography-FC60A8?style=for-the-badge&logo=awesome&logoColor=white)](https://github.com/mohammadgolamrabbii/Awesome-Open-Typography)
 [![CLI Installer](https://img.shields.io/badge/CLI_Tool-get--openfonts-2496ED?style=for-the-badge&logo=npm&logoColor=white)](https://github.com/mohammadgolamrabbii/get-openfonts)
 [![Bitbucket Mirrors](https://img.shields.io/badge/Bitbucket-Mirrors-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/golamrabbii)
